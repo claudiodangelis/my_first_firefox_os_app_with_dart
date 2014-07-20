@@ -1,5 +1,5 @@
 {
   "name": "My first Firefox OS app with Dart",
   "description": "Please insert a very cool description here.",
-  "launch_path" : "/build/web/my_app.html"
+  "launch_path" : "/my_app.html"
 }
